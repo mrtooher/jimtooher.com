@@ -36,3 +36,4 @@ h3{font-size:19px;margin:.6em 0 .2em}
 footer{border-top:1px solid var(--line);margin-top:40px;padding:26px 0 40px;color:var(--muted);font-size:14px}
 footer .social{display:flex;flex-wrap:wrap;gap:6px 18px}
 @media (max-width:760px){.hero{grid-template-columns:1fr;gap:22px;padding-top:28px}.hero img{max-width:260px}nav{gap:6px 14px}}
+.hero figure{margin:0}.hero figcaption{font-size:.85rem;opacity:.75;margin-top:8px;text-align:center}
